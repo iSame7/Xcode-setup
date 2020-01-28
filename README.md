@@ -5,10 +5,10 @@ List of extensions and tools for Xcode
 - [ ] [SwiftMockGenerator](https://github.com/seanhenry/SwiftMockGeneratorForXcode) 
 
 ## Tools & Extensions 
-- [ ] [CodePecker] (https://github.com/woshiccm/Pecker)
+- [ ] [CodePecker](https://github.com/woshiccm/Pecker)
 
 ## Breakpoints 
-- [a-breakpoint-i-cannot-live-without]https://dasdom.github.io/a-breakpoint-i-cannot-live-without/
+- [ ] [a-breakpoint-i-cannot-live-without](https://dasdom.github.io/a-breakpoint-i-cannot-live-without/)
 ### lldb commands 
 - bt: Thread backtrace 
 - po $arg1
