@@ -8,7 +8,8 @@ List of extensions and tools for Xcode
 - [ ] [CodePecker](https://github.com/woshiccm/Pecker)
 
 ## Breakpoints 
-- [ ] [a-breakpoint-i-cannot-live-without](https://dasdom.github.io/a-breakpoint-i-cannot-live-without/)
+- [ ] [Setup exception breakpoints](https://www.hackingwithswift.com/example-code/xcode/how-to-create-exception-breakpoints-in-xcode)
+- [ ] [A-breakpoint-i-cannot-live-without](https://dasdom.github.io/a-breakpoint-i-cannot-live-without/)
 ### lldb commands 
 - bt: Thread backtrace 
 - po $arg1
