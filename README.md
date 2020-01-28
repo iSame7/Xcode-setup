@@ -9,7 +9,7 @@ List of extensions and tools for Xcode
 
 ## Breakpoints 
 - [ ] [Setup exception breakpoints](https://www.hackingwithswift.com/example-code/xcode/how-to-create-exception-breakpoints-in-xcode)
-- [ ] [A-breakpoint-i-cannot-live-without](https://dasdom.github.io/a-breakpoint-i-cannot-live-without/)
+- [ ] [A-breakpoint-i-cannot-live-without](https://dasdom.github.io/a-breakpoint-i-cannot-live-without/) *only works on real devices not simulator.
 ### lldb commands 
 - bt: Thread backtrace 
 - po $arg1
