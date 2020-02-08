@@ -13,3 +13,10 @@ List of extensions and tools for Xcode
 ### lldb commands 
 - bt: Thread backtrace 
 - po $arg1
+
+### Shortcuts
+Highlight some code in Xcode
+``` swift
+Highlight some code in Xcode, hold down Shift then type a quotation mark; or an opening parenthesis; 
+or an opening curly brace; or an opening square bracket. This automatically wraps your highlighted code in the character you typed. 
+```
