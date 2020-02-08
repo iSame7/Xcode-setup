@@ -15,7 +15,8 @@ List of extensions and tools for Xcode
 - po $arg1
 
 ### Shortcuts
-Highlight some code in Xcode
+[Highlight some code in Xcode](https://twitter.com/scottsmithdev/status/1223347112026329089)
+
 ``` swift
 Highlight some code in Xcode, hold down Shift then type a quotation mark; or an opening parenthesis; 
 or an opening curly brace; or an opening square bracket. This automatically wraps your highlighted code in the character you typed. 
