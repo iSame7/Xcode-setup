@@ -22,3 +22,5 @@ List of extensions and tools for Xcode
 Highlight some code in Xcode, hold down Shift then type a quotation mark; or an opening parenthesis; 
 or an opening curly brace; or an opening square bracket. This automatically wraps your highlighted code in the character you typed. 
 ```
+### Xcode build settings 
+- [Xcode build settings](https://xcodebuildsettings.com/?utm_campaign=iOS%2BDev%2BWeekly&utm_medium=email&utm_source=iOS%2BDev%2BWeekly%2BIssue%2B445)
