@@ -24,3 +24,4 @@ or an opening curly brace; or an opening square bracket. This automatically wrap
 ```
 ### Xcode build settings 
 - [Xcode build settings](https://xcodebuildsettings.com/?utm_campaign=iOS%2BDev%2BWeekly&utm_medium=email&utm_source=iOS%2BDev%2BWeekly%2BIssue%2B445)
+- [Xcode build time](https://www.onswiftwings.com/posts/build-time-optimization-part1/)
